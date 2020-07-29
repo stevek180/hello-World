@@ -1,3 +1,3 @@
-write-host "hello everyone there"
+write-host "hello everyone"
 
 write-host "This is trivial"
